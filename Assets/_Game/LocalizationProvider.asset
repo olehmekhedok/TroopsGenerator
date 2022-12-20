@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc856c978fcba94e827bd45f5b3e810, type: 3}
+  m_Name: LocalizationProvider
+  m_EditorClassIdentifier: 
+  _localization:
+  - Key: troops_screen_generate
+    Text: Generate
+  - Key: troops_screen_header
+    Text: Troops
+  - Key: spearmen
+    Text: Spearmen
+  - Key: swordsmen
+    Text: Swordsmen
+  - Key: archers
+    Text: Archers
+  - Key: troops_screen_enter
+    Text: Enter amount...
